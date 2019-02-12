@@ -1,9 +1,3 @@
-# bootstrap4
+# Instructions
 
-Bootstrap4 & CSS & SASS Layout Template.
-Wersja online: http://mkrupa85.ssd-linuxpl.com/bootstrap4 
-
-jak skompilować pliki sass do css?
-1. ...
-2. ...
-3. ...
+You just need to run `npm install` followed by `npm start`. Then you are ready to go.
