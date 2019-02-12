@@ -1,1 +1,9 @@
 # bootstrap4
+
+Bootstrap4 & CSS & SASS Layout Template.
+Wersja online: http://mkrupa85.ssd-linuxpl.com/bootstrap4 
+
+jak skompilować pliki sass do css?
+1. ...
+2. ...
+3. ...
