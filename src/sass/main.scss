@@ -95,6 +95,14 @@ a[data-toggle="collapse"] {
     font-weight: 400;
     color: gray;
 }
+.close span {
+    visibility: hidden;
+}
+.media-body:hover {
+    .close span {
+        visibility: visible; 
+    }
+}
 
 /* HEADER */
 
