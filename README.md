@@ -1,10 +1,10 @@
-# Bootstrap4 & CSS & SASS Layout Template.
+# Bootstrap4 & SASS Layout Template.
 
 Wersja online: http://mkrupa85.ssd-linuxpl.com/bootstrap4
 
 1. Klonujemy lub pobieramy repozytorium na dysk.
 2. Stronę możemy podejrzeć lokalnie w przeglądarce otwierając plik "index.html" w katalogu głównym projektu, z już wyrenderowanym plikiem main.css, który jest podpięty pod główny dokument html.
-3. Jeśli chcemy ponownie przerenderować plik, wchodzimy przez terminal do sklonowanego repozytorium i poleceniem "npm i" uruchamiamy instalację wtyczek i modułów node.
+3. Jeśli chcemy ponownie przerenderować plik, wchodzimy przez terminal do sklonowanego repozytorium i poleceniem "npm install" uruchamiamy instalację wtyczek i modułów node.
 4. Uruchamiamy kompilator za pomocą polecenia: "npm start".
 7. Każda zmiana w pliku, który styluje layout src/sass/main.scss zostanie zaobserwowana przez kompilator i natychmiastowo zapisana w drzewie DOM.
 
